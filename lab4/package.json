@@ -1,0 +1,23 @@
+{
+  "name": "lab4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^5.1.2",
+    "generate-password": "^1.7.1",
+    "mocha": "^11.0.1"
+  },
+  "dependencies": {
+    "selenium-webdriver": "^4.27.0"
+  }
+}
